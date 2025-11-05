@@ -1,0 +1,17 @@
+nodes:
+  - id: tucson
+    sensors: [optical, em, magnetometer]
+  - id: ajo
+    sensors: [lf_vlf, ground_current]
+  - id: whitesands
+    sensors: [radar, infrasound]
+  - id: alamogordo
+    sensors: [adsb, telemetry]
+  - id: flagstaff
+    sensors: [cognitive_portal, lexicometric]
+  - id: lasvegas
+    sensors: [compute_hub, redundancy]
+
+sampling:
+  tick_seconds: 1
+  coincidence_window_seconds: 3
