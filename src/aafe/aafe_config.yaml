@@ -1,0 +1,21 @@
+prior_probability: 0.02
+likelihoods:
+  S1_optical: 1.05
+  S2_em: 1.08
+  S3_acoustic: 1.03
+  S4_aerospace: 1.04
+  S5_institutional: 1.02
+  S6_cognitive: 1.01
+  S7_media: 1.00
+  S8_indigenous: 1.00
+  S9_archaeological: 1.00
+filters:
+  F1_societal_desirability: 1.10
+  F2_classified_programs: 1.15
+  F3_cognitive_reframing: 1.05
+  F4_language_loss: 1.08
+  F5_verification_baseline: 0.10
+alpha: 0.12
+drift_floor: -0.20
+drift_ceiling: 0.20
+flag_threshold: 0.65
