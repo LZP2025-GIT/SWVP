@@ -1,0 +1,3 @@
+timestamp,node_id,LR_S1_optical,LR_S2_em,LR_S5_institutional,f5_verified_fraction
+2025-10-31T00:00:00Z,tucson,1.02,1.04,1.01,0.10
+2025-10-31T00:00:01Z,whitesands,1.07,1.10,1.02,0.18
