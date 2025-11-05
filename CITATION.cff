@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Southwest Verification Project (SWVP): Testing Cross-Domain APC Formation in a Multi-Sensor Corridor"
+authors:
+  - family-names: Laing
+    given-names: Zachariah Paul
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2025-10-31"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/<your-username>/Southwest-Verification-Project"
+abstract: >
+  The Southwest Verification Project implements a corridor-scale fusion of UABT domain likelihoods and the
+  Adaptive APC Forecast Engine (AAFE) to quantify, verify, and forecast Anomalus Phenomena Clusters (APCs).
