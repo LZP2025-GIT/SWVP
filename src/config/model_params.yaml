@@ -1,0 +1,11 @@
+fusion:
+  coincidence_window: 3       # seconds
+  dual_domain_threshold: 0.55
+  tri_domain_threshold: 0.75
+
+simulation:
+  base_LR_range: [0.98, 1.05]
+  spike_LR_range: [1.05, 1.20]
+  spike_probability: 0.03
+  f5_range_baseline: [0.08, 0.12]
+  f5_range_spike: [0.16, 0.22]
